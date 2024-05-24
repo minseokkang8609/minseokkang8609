@@ -1,3 +1,35 @@
+https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi,%20Im%20Minseok&fontColor=ff033e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 깃허브 프로필 만드는 중
 ![헤더](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=개발하는%20%20강민석%20입니다.)
 
