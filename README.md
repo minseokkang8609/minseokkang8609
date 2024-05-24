@@ -1,7 +1,7 @@
-https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi,%20Im%20Minseok&fontColor=ff033e
 
 
 
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi,%20Im%20Minseok&fontColor=ff033e)
 
 
 
